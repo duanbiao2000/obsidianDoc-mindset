@@ -1,4 +1,10 @@
-
+---
+copilot-command-context-menu-enabled: false
+copilot-command-slash-enabled: true
+copilot-command-context-menu-order: 9007199254740991
+copilot-command-model-key: ""
+copilot-command-last-used: 0
+---
 ### **📘 AI 精英学院™ Slides Extended 开发规范 v1.1**
 
 #### **v1.1 版本更新日志 (Changelog):**

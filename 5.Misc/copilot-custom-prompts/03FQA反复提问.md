@@ -5,7 +5,6 @@ copilot-command-context-menu-order: 9007199254740991
 copilot-command-model-key: ""
 copilot-command-last-used: 0
 ---
-
 ## 03 FQA Frequent Questions
 
 Generate multiple-choice questions based on {activeNote} to test students' understanding of the note.
