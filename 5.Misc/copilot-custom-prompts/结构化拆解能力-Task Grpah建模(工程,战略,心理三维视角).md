@@ -35,3 +35,4 @@ copilot-command-last-used: 0
 2.  **启动资源 (Launch Kit):** 启动第一步，我手头必须拥有的最少信息或工具是什么？
 3.  **第一步行动 (First Action):** 识别出那个能产生最小正反馈的、最简单的第一步。
 4.  **最小化产出 (Minimum Viable Output):** 第一步完成后，能得到的最小、但可见的成果是什么？
+---

@@ -14,7 +14,6 @@ tags:
 
 
 ## 每日一图
-<% tp.web.random_picture("800x600","beauty,sports,activity") %>
 
 // Random picture with size and query
 <% tp.web.random_picture("800x800", "landscape,smile,animal") %>
