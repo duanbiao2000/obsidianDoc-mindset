@@ -27,3 +27,20 @@ The essence of an MOC can be understood through its core principles:
 ### 3. Key Distinction
 
 A fundamental difference between MOCs and strict classification systems lies in their method of establishing relationships. MOCs primarily leverage the dynamic capture of associations via [[反向連結]] (Backlinks) and intentional links, rather than imposing a mandatory, static hierarchical belonging. This allows notes to participate in multiple MOCs simultaneously, reflecting their multi-faceted nature within the network.
+
+### **核心主题: 最小必要知识体系实践**
+
+**Insights**
+- 任何快速变化的领域都存在一个“最小必要”的核心知识集合
+- 知识体系应由需求驱动，聚焦实用性与核心基础
+- 完整的知识体系包含工具、理论、实践与伦理
+- 确定核心知识应基于量化数据，而非追逐热点
+- 持续、有针对性的学习是应对领域演进的根本
+
+**Tasks**
+* 识别并掌握任何领域中的“最小必要”核心知识
+* 运用量化数据指导学习方向与评估效果
+* 聚焦于最稳定、最关键的基础与核心概念
+* 将知识应用于解决实际问题
+* 将技术伦理与规范纳入知识体系
+* 分解复杂问题，构建知识体系，并提炼通用原则
