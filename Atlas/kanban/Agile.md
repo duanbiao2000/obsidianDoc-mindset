@@ -33,7 +33,7 @@ kanban-plugin: board
 - [x] 2024-11-15 00:27 [[Agile methodologies and Jira workflows]] ⏫ ➕ 2024-11-14 ✅ 2024-11-15
 - [x] 风格改写 ✅ 2025-06-18
 	[[R_通用知识指导模型]]
-	[[极限提问风格改写]]
+	[[苏格拉底式极限提问]]
 
 
 
