@@ -8,9 +8,23 @@ let nofold = '!"misc/templates"'
 let allFile = dv.pages(nofold).file
 let totalMd = "共创建 "+ allFile.length+" 篇笔记"
 let totalTag = allFile.etags.distinct().length+" 个标签"
-let totalTask = allFile.tasks.length+"个待办。 "
+
+// 总任务数
+let totalTaskCount = allFile.tasks.length
+// 未完成任务数
+let incompleteTaskCount = allFile.tasks.where(t => !t.completed).length
+// 已完成任务数
+let completedTaskCount = totalTaskCount - incompleteTaskCount
+// 计算完成率（处理总任务数为0的情况）
+let completionRate = totalTaskCount > 0 
+  ? ((completedTaskCount / totalTaskCount) * 100).toFixed(1) + "%" 
+  : "0%"
+
+// 拼接文本
+let taskStats = `共 ${totalTaskCount} 个任务，其中 ${incompleteTaskCount} 个未完成，完成率 ${completionRate}。`
+
 dv.paragraph(
-	totalDays + totalMd + "、" + totalTag + "、" + totalTask
+  totalDays + totalMd + "、" + totalTag + "、" + taskStats
 )
 ```
 

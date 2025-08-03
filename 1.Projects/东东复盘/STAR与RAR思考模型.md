@@ -1,7 +1,6 @@
 ---
 date: 2025-07-10 09:33
 tags:
-  - 模型
   - Domain/Mindset
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2025-05-28 21:59
 tags:
-  - Domain/Creativity/Mermaid
+  - Domain/Creativity
 rating: 10
 source:
   - https://refly.ai/share/canvas/can-ut29sdt61c0ujktd2uhm2o3b

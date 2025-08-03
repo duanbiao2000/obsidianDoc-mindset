@@ -1,7 +1,7 @@
 ---
 date: 2025-05-27 20:07
 tags:
-  - Domain/Productivity/WasteTime
+  - Domain/Mindset/WasteTime
 ---
 
 好的，根据您提供的 ManicTime 活动日志，我将为您进行量化分析，评估您的个人生产力和专注力表现，并提供改进建议。

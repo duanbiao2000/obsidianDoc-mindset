@@ -7,8 +7,7 @@
 
 ---
 **别名:** 办成事核心公式与动态流程
-**标签:** #productivity #execution #mindset #system
-**状态:** #evergreen
+
 **简介:** 一个关于如何构建个人高效能行动系统的完整框架，旨在将意图转化为成果。
 
 ---
@@ -39,7 +38,7 @@
 #### **新笔记：`[[目标感]]`**
 
 ---
-**标签:** #mindset #goal-setting #clarity
+**标签:** #战略 #goal-setting #clarity
 **父级:** `[[MOC - 办成事系统]]`
 **相关:** `[[OKRs]]`, `[[第一性原理]]`
 
@@ -63,7 +62,7 @@
 #### **新笔记：`[[行动闭环]]`**
 
 ---
-**标签:** #execution #feedback-loop #learning
+**标签:** #execution #feedback-loop #学习
 **父级:** `[[MOC - 办成事系统]]`
 **相关:** `[[PDCA循环]]`, `[[复盘]]`
 

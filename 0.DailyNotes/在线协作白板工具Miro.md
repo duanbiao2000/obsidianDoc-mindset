@@ -1,7 +1,7 @@
 ---
 date: 2025-06-18 17:15
 tags:
-  - Domain/Productivity/Tools
+  - Domain/Mindset/Tools
 ---
 
 Miro 是一款**在线协作白板工具**。

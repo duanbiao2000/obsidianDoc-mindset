@@ -1,6 +1,6 @@
 ---
 tags:
-  - Timeframe/daily
+  - Domain/Mindset/daily
 created: 2025-05-03 07:07
 cssclasses:
   - hide-properties_editing
