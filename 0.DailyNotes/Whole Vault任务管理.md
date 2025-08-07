@@ -5,6 +5,6 @@
 not done
 sort by priority 
 sort by due 
-limit 30
+limit 50
 ```
 
