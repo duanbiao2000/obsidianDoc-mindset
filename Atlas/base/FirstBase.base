@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.ext == "md"
+    - or:
+        - file.folder == "0.DailyNotes"
+        - file.folder == "1.Projects"
+        - file.folder == "2.Sphere"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+      - file.size
+      - rating
+      - file.folder
+    sort:
+      - property: file.size
+        direction: DESC
