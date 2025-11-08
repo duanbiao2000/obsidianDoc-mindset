@@ -10,12 +10,12 @@
 **用途：** 处理正式信件类题目，尤其是 _Letter to the Editor_（致编辑信）。  
 **核心结构：**
 
-|段落|含义|功能说明|
-|---|---|---|
-|**F – Format / Greeting**|开头格式与问候语|如 “Dear Editor,” 并表明来信目的。|
-|**R – Reason for Writing**|写信原因|开宗明义说明为何写信（回应文章、表达意见等）。|
-|**A – Arguments**|论点主体|每段一个清晰论点 + 支持例子或解释。|
-|**I – Invitation / Closing**|结尾呼吁与感谢|通常包含呼吁读者行动或期望回应，例如 “I sincerely hope your readers will…”。|
+| 段落                           | 含义       | 功能说明                                                      |
+| ---------------------------- | -------- | --------------------------------------------------------- |
+| **F – Format / Greeting**    | 开头格式与问候语 | 如 “Dear Editor,” 并表明来信目的。                                 |
+| **R – Reason for Writing**   | 写信原因     | 开宗明义说明为何写信（回应文章、表达意见等）。                                   |
+| **A – Arguments**            | 论点主体     | 每段一个清晰论点 + 支持例子或解释。                                       |
+| **I – Invitation / Closing** | 结尾呼吁与感谢  | 通常包含呼吁读者行动或期望回应，例如 “I sincerely hope your readers will…”。 |
 
 **示例：**
 
