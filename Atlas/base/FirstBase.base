@@ -1,20 +1,66 @@
 filters:
   and:
-    - file.ext == "md"
+    - file.ext.endsWith("md")
     - or:
-        - file.folder == "0.DailyNotes"
-        - file.folder == "1.Projects"
-        - file.folder == "2.Sphere"
+        - file.folder.contains("0.DailyNotes")
+        - file.folder.contains("1.Projects")
+        - file.folder.contains("2.Sphere")
+        - file.folder.contains("7.Calendar")
+formulas:
+  month: date.month
 views:
   - type: table
     name: Table
     order:
       - file.name
+      - date
       - file.ctime
       - file.mtime
       - file.size
       - rating
       - file.folder
+      - file.tags
     sort:
+      - property: file.mtime
+        direction: DESC
       - property: file.size
         direction: DESC
+    columnSize:
+      file.name: 233
+      note.date: 176
+      note.rating: 90
+      file.folder: 137
+  - type: table
+    name: GroupbyMonth
+    filters:
+      and:
+        - "!date.isEmpty()"
+    groupBy:
+      property: formula.month
+      direction: ASC
+    order:
+      - file.name
+      - formula.month
+      - date
+      - update
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 233
+      formula.month: 72
+      note.date: 207
+  - type: table
+    name: Rank
+    filters:
+      and:
+        - "!rating.isEmpty()"
+    order:
+      - file.name
+      - rating
+    sort:
+      - property: rating
+        direction: DESC
+    columnSize:
+      file.name: 233
+      note.rating: 184

@@ -1,5 +1,5 @@
 ---
-aliases: "Zettelkasten卡片盒筆記法"
+aliases: ["Zettelkasten卡片盒筆記法"]
 source: "https://web.archive.org/web/20220601181526/https://ithelp.ithome.com.tw/articles/10265859"
 author:
   - "[[iThome]]"
@@ -8,12 +8,10 @@ date: "2025-04-21T19:46:27+08:00"
 update: "2025-04-21T19:46:27+08:00"
 description: "前言 在 《Day 01 : 導言 - 知識是如何形成的？》 與 《Day 02 : 你所知道的「筆記工具」，早就演化成不同的物種》 我說明了「知識」形成的理論，並且解釋了使用 Obsidian 的原..."
 categories:
-tags:
-  - "Domain/Creativity/clippings"
+tags: ["Domain/Creativity/clippings"]
 rating:
 ---
 
-[[Zettelkasten卡片设计规范]]是一种由德国社会学家[[Niklas Luhmann]]发明的[[笔记方法的本质与分类]]。Luhmann在40年的研究生涯中，通过这种方法积累了大量知识，并出版了超过70本著作和400篇学术论文，其主题涵盖[[社会学]]、生物学、数学、模控学和电脑科学等多个领域。
 
 Zettelkasten在德语中，“Zettel”意为卡片或纸条，“Kasten”意为盒子或箱子，合起来便是“[[卡片盒笔记法价值公式]]”。该方法的核心在于[[笔记之间的连接]]。Luhmann的做法是，每当产生一个点子时，便立即记录在一张新的卡片上，包含关键词、内容阐述及相关示例。每张卡片还会标注与其他相关卡片的索引编号，形成非线性的连接网络。
 

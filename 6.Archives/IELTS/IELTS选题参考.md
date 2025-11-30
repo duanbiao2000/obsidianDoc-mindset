@@ -5,29 +5,33 @@ aliases:
 categories:
 tags:
 ---
-好的，以下是将之前提到的数据整理成表格形式的Markdown格式：
 
-Markdown
+### **MEMORANDUM**
 
+**To:** Leadership Team
+**From:** Analysis & Strategy Dept.
+**Date:** 2025-11-11
+**Subject:** Recommendation: Prioritize IELTS for Curriculum Development
 
-| 考试名称 | 词汇量大致范围 | 词汇特点 | 词频区间 |
-|---|---|---|---|
-| SAT | 12000-15000 | 侧重学术性和低频词汇 | 低频为主，部分中频 |
-| 雅思 (IELTS) | 6000-8000 | 注重实用性和交流性，词汇覆盖范围广 | 高频和中频为主 |
-| 托福 (TOEFL) | 8000-10000 | 侧重学术英语，词汇集中在学术领域 | 中频为主 |
-| GMAT | 7000-9000 | 侧重商业领域词汇和逻辑推理 | 中频和部分低频 |
-| GRE | 10000-12000 | 侧重通用学术词汇和逻辑推理 | 中频和部分低频 |
-| 专业八级 | 13000-16000 | 侧重学术和专业词汇，广度和深度要求高 | 中频和低频为主 |
+**1. Recommendation**
 
+Our analysis of major English proficiency tests indicates we should prioritize the International English Language Testing System (IELTS) for future curriculum development. IELTS offers the best strategic fit due to its large market, practical focus, and direct relevance to our target customers.
 
-**补充说明：**
+**2. Key Findings: Market Positioning**
 
-- 词汇量为大致估计，可能因不同来源和统计方法而异。
-- 词频区间为大致范围，实际考试可能有所波动。
-- 词汇特点和词频区间有助于理解各考试的词汇侧重和难度。
+*   **Practical Vocabulary Focus:** IELTS targets a practical vocabulary of 6,000-8,000 high- and mid-frequency words. This prepares candidates for real-world communication, unlike more academic tests (e.g., SAT, GRE) that emphasize low-frequency vocabulary.
+*   **Broad Applicability:** IELTS is the standard for education and immigration in the UK, Australia, and other Commonwealth countries. This represents a large, stable, and diverse user base.
 
+**3. Curriculum Implications: IELTS Speaking Section**
 
-好的，以下是 SAT、雅思、托福、GMAT、GRE 和中国专业八级考试的量化比较：
+A review of recent IELTS speaking topics confirms its focus on practical communication skills directly transferable to professional environments.
+
+*   **Content:** Topics cover personal experiences (e.g., work, achievements), daily routines, and opinions on social issues (e.g., public facilities, the environment).
+*   **Skills Tested:** The format requires candidates to describe, explain, compare, and justify their views. This moves beyond simple recall to assess applied communication competence.
+
+**4. Next Steps**
+
+We recommend allocating resources to develop a comprehensive IELTS preparation course. This move aligns with clear market demand and leverages our core strength in teaching practical, real-world English. A detailed project plan and budget proposal will follow.
 
 |            |                                       |                        |          |                 |
 | ---------- | ------------------------------------- | ---------------------- | -------- | --------------- |
@@ -98,17 +102,3 @@ Markdown
     - 你计划去但离家很远的地方
     - 你的某件设备坏掉的时候（如电视）
 - **Part 3 讨论话题**: Part 3 是对 Part 2 话题的延伸讨论，考察考生更深层次的思考能力、分析能力和表达抽象概念的能力。问题通常涉及更广泛的社会现象、文化差异、个人观点对比等。例如，与历史、旧建筑保护、美丽的标准、成功、收藏、手工礼物、新闻媒体、公共设施、写作、诚实、工作类型、智力、时间管理、户外运动、健康、学习方法、老年人、服务质量、食物、居住环境、工作、学习科目、教学、榜样、空闲时间、计划改变、聚会、礼物、幽默、购物、植物、阅读、法律、独处、学习场所、交友、网络信息、家族企业、借贷、技能学习、语言学习、环境保护、青少年、童年游戏、投诉、演讲、城市、决策、有趣的地方、旅行、设备等话题都有相关的讨论问题。
-
-**重点考察的表达方式：**
-
-虽然资料没有直接说明重点考察的表达方式，但从题目的设置可以推断出以下几点：
-
-- **描述能力:** Part 1 需要清晰简洁地描述个人情况和喜好。Part 2 则需要详细、有条理地描述经历、人物、物品、地点等，并解释原因。
-- **解释能力:** 在描述的基础上，考生需要能够解释为什么喜欢或不喜欢某些事物，为什么会做出某些选择，以及某些事物的重要性等。
-- **表达观点和看法:** Part 1 和 Part 3 都要求考生表达自己的观点、态度和看法。Part 3 尤其侧重于对抽象问题的思考和观点的阐述。
-- **比较和对比:** Part 3 中经常出现比较不同事物、不同人群或不同观点的题目，考察考生的比较和对比分析能力。
-- **推测和预测:** 某些 Part 3 问题会要求考生对未来进行推测或预测。
-- **使用恰当的连接词和短语:** 为了使表达更流畅和连贯，考生需要掌握一定的连接词和短语。
-- **丰富的词汇和语法:** 能够准确、自然地使用与话题相关的词汇和语法结构是流利表达的基础。
-
-总的来说，2019年1-4月的雅思口语考试依然侧重于考察考生在不同情境下运用英语进行有效沟通的能力，话题贴近生活，表达方式要求清晰、连贯、自然。考生需要具备描述、解释、表达观点、比较对比和进行推测等多种语言能力。
